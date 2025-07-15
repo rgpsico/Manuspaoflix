@@ -108,6 +108,10 @@ php artisan serve
 php artisan queue:work
 ```
 
+### Frontend Demo
+Acesse `http://localhost:8000/frontend-demo` para testar rapidamente as rotas de autenticação.
+
+
 ## ⚙️ Configuração do Asaas
 
 ### 1. Obtenha suas credenciais
